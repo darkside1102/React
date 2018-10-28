@@ -2,9 +2,6 @@ import React, {Component} from 'react';
 import ReactDOM from 'react-dom';
 
 
-// import StudentInfo from './components/StudentInfo';
-// import ClickButton from './components/ClickButton';
-
 class App extends Component {
     render() {
         return (
